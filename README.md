@@ -9,5 +9,5 @@
   
   **Step2**: ‘mvn test’ on the command line
 * Test Execution Report is available after the execution at the below path
-    /build/spock-reports/index.html
-    /build/spock-reports/specs.testSpec.html
+  
+    **Path:** /build/spock-reports/index.html
